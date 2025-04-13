@@ -18,3 +18,69 @@
 
 ## What is Deep Learning good for?
 ![alt text](image-3.png)
+
+## What is Deep Learning not good for?
+* Parameters - numbers / patterns
+![alt text](image-4.png)
+
+## ML vs DL
+![alt text](image-5.png)
+* Not the rule, there could be differences.
+* Unstructured data could be converted to a structured data - through the beauty of a tensor
+Typically in production systems:
+* ML algos : Gradient Boosted machines, <b>XGBoost</b> (most popular choice), or any tree-based algorithm
+* DL algos : Neural networks
+![https://youtu.be/LyJtbe__2i0?list=TLPQMTMwNDIwMjVu_E1RGuSF6A&t=1311](image-6.png)
+![alt text](image-7.png)
+Depending on what your problem is, you can use both - ML and DL.
+![alt text](image-8.png)
+
+## What are Neural Networks?
+* Images - CNNs
+* Text & Audios - Transformers
+![https://youtu.be/LyJtbe__2i0?list=TLPQMTMwNDIwMjVu_E1RGuSF6A&t=1717](image-9.png)
+![https://youtu.be/LyJtbe__2i0?list=TLPQMTMwNDIwMjVu_E1RGuSF6A&t=1845](image-10.png)
+* ResNet - Popular CNN algorithm
+![https://youtu.be/LyJtbe__2i0?list=TLPQMTMwNDIwMjVu_E1RGuSF6A&t=1907](image-11.png)
+
+# Types of Learning
+![https://youtu.be/LyJtbe__2i0?list=TLPQMTMwNDIwMjVu_E1RGuSF6A&t=1998](image-12.png)
+* Supervised learning - when you have data and labels
+* Unsupervised learning - no lables, only data
+* Self supervised learning - you figure out the fundamental difference of patterns, but it does it by itself. Later you may help
+* Transfer learning - taking the patterns that one model has learned (of a dataset) and transferring it to another model.
+* Reinforcement learning
+![alt text](image-13.png)
+
+# What is Deep learning actually used for?
+![alt text](image-14.png)
+* Question : what about recommendation systems?
+
+# What is PyTorch?
+![https://youtu.be/LyJtbe__2i0?list=TLPQMTMwNDIwMjVu_E1RGuSF6A&t=2767](image-15.png)
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+* TPUs are called tensor processing units because ML/DL deals a lot with tensors.
+
+## What are tensors?
+![alt text](image-20.png)
+![alt text](image-21.png)
+![alt text](image-22.png)
+### HomeWork : watch this video on tensors and sumamrize:
+https://youtu.be/f5liqUk0ZTw?si=Fg_mGLYY6d-ITn1T
+
+# Overview of the course
+![alt text](image-23.png)
+![alt text](image-24.png)
+## How you should approach this course?
+![alt text](image-25.png)
+![alt text](image-26.png)
+
+# Resources
+(1) Course GitHub : https://github.com/mrdbourke/pytorch-deep-learning
+(2) Course GitHub discussions : https://github.com/mrdbourke/pytorch-deep-learning/discussions
+(3) Course online book : https://www.learnpytorch.io/
+(4) PyTorch : https://pytorch.org/docs/stable/index.html | https://pytorch.org/resources/
+(5) PyTorch discussions : https://discuss.pytorch.org/
