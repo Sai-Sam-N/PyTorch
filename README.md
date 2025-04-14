@@ -65,6 +65,7 @@ Depending on what your problem is, you can use both - ML and DL.
 * TPUs are called tensor processing units because ML/DL deals a lot with tensors.
 
 ## What are tensors?
+Tensors are a way to represent multi-dimensional numeric data. This numeric data represents something else.
 ![alt text](image-20.png)
 ![alt text](image-21.png)
 ![alt text](image-22.png)
@@ -84,3 +85,9 @@ https://youtu.be/f5liqUk0ZTw?si=Fg_mGLYY6d-ITn1T
 (3) Course online book : https://www.learnpytorch.io/
 (4) PyTorch : https://pytorch.org/docs/stable/index.html | https://pytorch.org/resources/
 (5) PyTorch discussions : https://discuss.pytorch.org/
+
+# Chapter 1 - Introduction to PyTorch Tensors
+Access to GPU in colab:
+![alt text](image-27.png)
+### Homework ; read torch.tensor() documentation by pytorch
+ 
