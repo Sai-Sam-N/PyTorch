@@ -3,7 +3,8 @@
 
 # Progress tracker
 11/04/2024 : 00:00:00:00 - 00:00:00:00
-
+* lost logging the tracker.
+16/04/2024 : 00:01:44:51 - 00:00:00:00
 
 # Introduction
 * Deep learning is a subset of machine learning
