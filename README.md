@@ -9,10 +9,12 @@
 
 <br>
 
-Date | Timestamp | Start | End
---- | --- | --- | --- 
-30/04/2025 | 8:30AM | 00:01:56:39 | 00:02:02:04
-30/04/2025 | 12:34PM | 00:02:02:04 | 00:02:02:04
+Date | Start Timestamp | Video Start | Video End | End Timestamp
+--- | --- | --- | --- | ---
+30/04/2025 | 08:30AM | 00:01:56:39 | 00:02:02:04 | 
+30/04/2025 | 12:34PM | 00:02:02:04 | 00:02:14:46 | 1:30PM
+01/05/2025 | 02:04PM | 00:02:14:46 | 00:02:29:08 | 
+03/05/2025 | 11:41PM | 00:02:29:08 | 00: | 
 
 # Introduction
 * Deep learning is a subset of machine learning
