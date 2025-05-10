@@ -23,6 +23,7 @@ Date | Start Timestamp | Video Start | Video End | End Timestamp | Total complet
 10/05/2025 | 12:44PM | 00:04:06:03 | 00:04:09:10 | 01:07PM | 
 10/05/2025 | 02:53PM | 00:04:09:10 | 00:04:12:21 | 03:00PM | 
 11/05/2025 | 02:35AM | 00:04:12:21 | 00:04:17:05 | 02:44AM | 
+11/05/2025 | 02:44AM | 00:04:17:05 | 00:04:32:23 | 03:20AM | 
 
 
 # Introduction
@@ -110,4 +111,10 @@ https://youtu.be/f5liqUk0ZTw?si=Fg_mGLYY6d-ITn1T
 Access to GPU in colab:
 ![alt text](image-27.png)
 ### Homework ; read torch.tensor() documentation by pytorch
- 
+Rest of the content - please refer `00_pytorch_fundamentals.ipynb`.
+
+# Chapter 2 - Introduction to PyTorch Workflows
+![alt text](image-28.png)
+* A tensor can represent almost any kind of data.
+![alt text](image-29.png)
+Rest of the content - please refer `01_pytorch_workflow_fundamentals.ipynb`
